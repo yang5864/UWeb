@@ -65,4 +65,10 @@ body{
     padding-top:25px;
     font-size: 14px;
     color: #e8eaed;
+    display: flex;
+    align-items: center;
+}
+
+.main-section .personal-info img{
+    padding-right: 5px;
 }

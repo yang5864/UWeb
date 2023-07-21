@@ -1,0 +1,23 @@
+h1{
+    background-color: paleturquoise;
+    border: 1px solid black;
+    width: 300px;
+    padding: 50px;
+    margin: 100px;
+}
+
+span{
+    background-color: palevioletred;
+    border: 1px solid black;
+    width: 500px;   /* 인라인 요소라서 너비 무시됨 */
+    padding: 100px;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color: olive;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 50px;
+}

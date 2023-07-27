@@ -61,6 +61,12 @@ body{
     font-size: 14px;
     color: #e8eaed;
 }
+
+.main-section .buttons button:hover{
+    border: 1px solid #e8eaed;
+    cursor: pointer;
+}
+
 .main-section .personal-info{
     padding-top:25px;
     font-size: 14px;
@@ -72,3 +78,4 @@ body{
 .main-section .personal-info img{
     padding-right: 5px;
 }
+
